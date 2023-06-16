@@ -1,0 +1,29 @@
+{
+  "_id": "63c8d27ab45a7100018c0512",
+  "id": "63c8d27ab45a7100018c0512",
+  "name": "Plan 3",
+  "org_id": "6260b3a2a077c3000128c4b5",
+  "rate": 800,
+  "per": 60,
+  "quota_max": -1,
+  "quota_renewal_rate": -1,
+  "throttle_interval": -1,
+  "throttle_retry_limit": -1,
+  "max_query_depth": -1,
+  "access_rights": {},
+  "hmac_enabled": false,
+  "active": true,
+  "is_inactive": false,
+  "date_created": "2023-01-19T05:17:46.044Z",
+  "tags": [],
+  "key_expires_in": 2592000,
+  "partitions": {
+    "quota": true,
+    "rate_limit": true,
+    "complexity": false,
+    "acl": false,
+    "per_api": false
+  },
+  "last_updated": "1674105904",
+  "meta_data": {}
+}

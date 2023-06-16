@@ -1,0 +1,29 @@
+{
+  "_id": "63c89851b45a7100018c0510",
+  "id": "63c89851b45a7100018c0510",
+  "name": "Plan 1",
+  "org_id": "6260b3a2a077c3000128c4b5",
+  "rate": 100,
+  "per": 60,
+  "quota_max": -1,
+  "quota_renewal_rate": -1,
+  "throttle_interval": -1,
+  "throttle_retry_limit": -1,
+  "max_query_depth": -1,
+  "access_rights": {},
+  "hmac_enabled": false,
+  "active": true,
+  "is_inactive": false,
+  "date_created": "2023-01-19T01:09:37.228Z",
+  "tags": [],
+  "key_expires_in": 0,
+  "partitions": {
+    "quota": true,
+    "rate_limit": true,
+    "complexity": false,
+    "acl": false,
+    "per_api": false
+  },
+  "last_updated": "1674105883",
+  "meta_data": {}
+}

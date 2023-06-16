@@ -1,0 +1,100 @@
+{
+  "type": "apidef",
+  "files": [
+    {
+      "file": "api-d1dcccafc287430b4dbd890722554d92.json",
+      "oas": {}
+    },
+    {
+      "file": "api-0684f6fb7e884b52463b98395b256ad5.json",
+      "oas": {}
+    },
+    {
+      "file": "api-80b333efa7ee4cba5c252695eb28e1db.json",
+      "oas": {}
+    },
+    {
+      "file": "api-ae9f84fa101540816433522689f15b1c.json",
+      "oas": {}
+    },
+    {
+      "file": "api-8b91e261fed34040600f1a76944751cd.json",
+      "oas": {}
+    },
+    {
+      "file": "api-482f32a542a746c445325fa4bbf39c27.json",
+      "oas": {}
+    },
+    {
+      "file": "api-43fefc871d7648775a808874d236f5af.json",
+      "oas": {}
+    },
+    {
+      "file": "api-6741d98a8de64501494f37d956b77469.json",
+      "oas": {}
+    },
+    {
+      "file": "api-21bb264e1ac24f554a30887bede48bde.json",
+      "oas": {}
+    },
+    {
+      "file": "api-79dd2a7237d34c4c7db43bbe08e129e8.json",
+      "oas": {}
+    },
+    {
+      "file": "api-6d6d3b0560a540cb7c009cb9cb98c1d2.json",
+      "oas": {}
+    },
+    {
+      "file": "api-a283e0cfbde5436444dde1ec037415ab.json",
+      "oas": {}
+    },
+    {
+      "file": "api-0a500f6a4c0e4df475e7dd08107abea9.json",
+      "oas": {}
+    },
+    {
+      "file": "api-b96c8458ba204dbb712dbddaf18b21e8.json",
+      "oas": {}
+    },
+    {
+      "file": "api-fe84b20ad66443c37c62c33feefa583e.json",
+      "oas": {}
+    },
+    {
+      "file": "api-a7700a14f486412b6763d481f20e817f.json",
+      "oas": {}
+    },
+    {
+      "file": "api-9273519b4b8b475d6f348fc1a7b12761.json",
+      "oas": {}
+    },
+    {
+      "file": "api-d5388ffcf24e4c7451cf53f995032c04.json",
+      "oas": {}
+    }
+  ],
+  "policies": [
+    {
+      "file": "policy-62c67298291ecb0001d9188f.json"
+    },
+    {
+      "file": "policy-63c89851b45a7100018c0510.json"
+    },
+    {
+      "file": "policy-63c8d229b45a7100018c0511.json"
+    },
+    {
+      "file": "policy-63c8d27ab45a7100018c0512.json"
+    },
+    {
+      "file": "policy-63c8d292b45a7100018c0513.json"
+    },
+    {
+      "file": "policy-63c8d2a8b45a7100018c0514.json"
+    },
+    {
+      "file": "policy-63c8d481b45a7100018c0515.json"
+    }
+  ]
+}
